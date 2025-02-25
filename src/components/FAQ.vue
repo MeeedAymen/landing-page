@@ -7,23 +7,23 @@ import { slideTransition } from '@/utils/animations'
 const faqs = [
   {
     question: "Quels sont vos domaines d'expertise principaux ?",
-    answer: "Nous sommes spécialisés dans l'audit, le conseil fiscal, le conseil juridique et le conseil organisationnel. Notre équipe d'experts couvre tous les aspects essentiels de la gestion d'entreprise."
+    answer: "Nous sommes spécialisés dans le developement, le conseil dans le domaine, le conseil de deploiment et le conseil testing. Notre équipe d'experts couvre tous les aspects essentiels de la gestion d'entreprise."
   },
   {
-    question: "Comment se déroule une mission d'audit ?",
-    answer: "Une mission d'audit se déroule en plusieurs phases : planification, évaluation des risques, tests de contrôle, analyse des données, et présentation des conclusions avec des recommandations concrètes."
+    question: "Comment se déroule une mission de developpement ?",
+    answer: "Nous sommes spécialisés dans le developement, le conseil dans le domaine, le conseil de deploiment et le conseil testing. Notre équipe d'experts couvre tous les aspects essentiels de la gestion d'entreprise."
   },
   {
     question: "Quels types d'entreprises accompagnez-vous ?",
-    answer: "Nous accompagnons des entreprises de toutes tailles, des PME aux grandes entreprises, dans divers secteurs d'activité. Notre approche est adaptée aux besoins spécifiques de chaque client."
+    answer: "Nous sommes spécialisés dans le developement, le conseil dans le domaine, le conseil de deploiment et le conseil testing. Notre équipe d'experts couvre tous les aspects essentiels de la gestion d'entreprise."
   },
   {
     question: "Quelle est votre approche en matière de confidentialité ?",
-    answer: "La confidentialité est au cœur de notre pratique. Nous respectons strictement le secret professionnel et mettons en place des protocoles rigoureux pour protéger les informations de nos clients."
+    answer: "Nous sommes spécialisés dans le developement, le conseil dans le domaine, le conseil de deploiment et le conseil testing. Notre équipe d'experts couvre tous les aspects essentiels de la gestion d'entreprise."
   },
   {
-    question: "Comment démarrer une collaboration avec IBK Consulting ?",
-    answer: "Pour démarrer une collaboration, contactez-nous par téléphone, email ou via notre formulaire de contact. Nous organiserons une première réunion pour comprendre vos besoins et vous proposer une solution adaptée."
+    question: "Comment démarrer une collaboration avec votre societe ?",
+    answer: "Nous sommes spécialisés dans le developement, le conseil dans le domaine, le conseil de deploiment et le conseil testing. Notre équipe d'experts couvre tous les aspects essentiels de la gestion d'entreprise."
   }
 ]
 </script>

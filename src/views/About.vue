@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import { useMotion } from '@vueuse/motion'
 import HeroSection from '@/components/sections/HeroSection.vue'
 import StatsSection from '@/components/sections/StatsSection.vue'
 import { fadeInLeft, fadeInRight } from '@/utils/animations'
@@ -32,7 +31,7 @@ const stats = [
           >
             <h2 class="text-3xl font-bold mb-6 text-gray-900 dark:text-white">Notre Mission</h2>
             <p class="text-gray-600 dark:text-gray-300 mb-6">
-              Notre mission est d'accompagner nos clients dans leur développement en leur fournissant des solutions sur mesure et innovantes. Nous nous engageons à maintenir les plus hauts standards de qualité et d'éthique professionnelle.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit.
             </p>
             <ul class="space-y-4">
               <li class="flex items-center text-gray-600 dark:text-gray-300">

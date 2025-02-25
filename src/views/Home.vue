@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { ref, onMounted } from 'vue'
-import { useMotion } from '@vueuse/motion'
 import ServiceCard from '../components/ServiceCard.vue'
 import TestimonialCard from '../components/TestimonialCard.vue'
 import FAQ from '../components/FAQ.vue'
@@ -99,7 +98,7 @@ onMounted(() => {
           :enter="{ opacity: 1, y: 0, transition: { delay: 200 } }"
           class="text-xl md:text-2xl text-white mb-8"
         >
-          Cabinet d'Audit et Conseil Fiscal, Juridique et Organisationnel
+          Societe technique de developpement informatique et de reseaux
         </p>
         <router-link
           to="/contact"

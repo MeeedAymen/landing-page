@@ -15,12 +15,12 @@ import { useMotion } from '@vueuse/motion'
             :enter="{ opacity: 1, x: 0 }"
             class="bg-white dark:bg-gray-800 p-8 rounded-lg shadow-lg"
           >
-            <h2 class="text-2xl font-semibold mb-4 text-gray-900 dark:text-white">Audit</h2>
+            <h2 class="text-2xl font-semibold mb-4 text-gray-900 dark:text-white">developement</h2>
             <ul class="space-y-3 text-gray-600 dark:text-gray-300">
-              <li>Audit financier et comptable</li>
-              <li>Audit organisationnel</li>
-              <li>Audit des processus</li>
-              <li>Due diligence</li>
+              <li>Societe technique</li>
+              <li>developpement informatique</li>
+              <li>software engineer</li>
+              <li>Societe technique </li>
             </ul>
           </div>
           
@@ -30,12 +30,12 @@ import { useMotion } from '@vueuse/motion'
             :enter="{ opacity: 1, x: 0 }"
             class="bg-white dark:bg-gray-800 p-8 rounded-lg shadow-lg"
           >
-            <h2 class="text-2xl font-semibold mb-4 text-gray-900 dark:text-white">Conseil Fiscal</h2>
+            <h2 class="text-2xl font-semibold mb-4 text-gray-900 dark:text-white">Conseil dans le developement</h2>
             <ul class="space-y-3 text-gray-600 dark:text-gray-300">
-              <li>Optimisation fiscale</li>
-              <li>Assistance fiscale</li>
-              <li>Contrôle fiscal</li>
-              <li>Planification fiscale</li>
+              <li>Societe technique</li>
+              <li>developpement informatique</li>
+              <li>software engineer</li>
+              <li>Societe technique </li>
             </ul>
           </div>
           
@@ -45,12 +45,12 @@ import { useMotion } from '@vueuse/motion'
             :enter="{ opacity: 1, x: 0 }"
             class="bg-white dark:bg-gray-800 p-8 rounded-lg shadow-lg"
           >
-            <h2 class="text-2xl font-semibold mb-4 text-gray-900 dark:text-white">Conseil Juridique</h2>
+            <h2 class="text-2xl font-semibold mb-4 text-gray-900 dark:text-white">Conseil </h2>
             <ul class="space-y-3 text-gray-600 dark:text-gray-300">
-              <li>Droit des sociétés</li>
-              <li>Droit commercial</li>
-              <li>Droit du travail</li>
-              <li>Contentieux</li>
+              <li>Societe technique</li>
+              <li>developpement informatique</li>
+              <li>software engineer</li>
+              <li>Societe technique </li>
             </ul>
           </div>
           
@@ -62,10 +62,10 @@ import { useMotion } from '@vueuse/motion'
           >
             <h2 class="text-2xl font-semibold mb-4 text-gray-900 dark:text-white">Conseil Organisationnel</h2>
             <ul class="space-y-3 text-gray-600 dark:text-gray-300">
-              <li>Diagnostic organisationnel</li>
-              <li>Optimisation des processus</li>
-              <li>Gestion du changement</li>
-              <li>Formation et accompagnement</li>
+              <li>Societe technique</li>
+              <li>developpement informatique</li>
+              <li>software engineer</li>
+              <li>Societe technique </li>
             </ul>
           </div>
         </div>

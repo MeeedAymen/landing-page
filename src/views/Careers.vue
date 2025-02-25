@@ -7,11 +7,11 @@ import { fadeInUp } from '@/utils/animations'
 
 const positions = [
   {
-    title: 'Auditeur Senior',
-    department: 'Audit',
+    title: 'developpeur Senior',
+    department: 'developement',
     location: 'Agadir',
     type: 'Temps plein',
-    description: 'Nous recherchons un auditeur senior expérimenté pour rejoindre notre équipe en pleine croissance.',
+    description: 'Nous sommes spécialisés dans le developement, le conseil dans le domaine.',
     requirements: [
       'Minimum 5 ans d\'expérience en audit',
       'Expertise en normes IFRS',
@@ -19,14 +19,14 @@ const positions = [
     ]
   },
   {
-    title: 'Consultant Fiscal',
-    department: 'Conseil Fiscal',
+    title: 'Consultant developement',
+    department: 'Conseil',
     location: 'Agadir',
     type: 'Temps plein',
-    description: 'Opportunité pour un consultant fiscal avec une solide expérience en fiscalité marocaine.',
+    description: 'ONous sommes spécialisés dans le developement, le conseil dans le domaine,',
     requirements: [
       'Expérience en fiscalité marocaine',
-      'Maîtrise du droit fiscal',
+      'Maîtrise du developement',
       'Capacité à gérer plusieurs dossiers'
     ]
   },
@@ -35,10 +35,10 @@ const positions = [
     department: 'Conseil Juridique',
     location: 'Agadir',
     type: 'Temps plein',
-    description: 'Nous cherchons un juriste d\'entreprise pour renforcer notre équipe juridique.',
+    description: 'Nous sommes spécialisés dans le developement, le conseil dans le domaine,',
     requirements: [
       'Formation en droit des affaires',
-      'Expérience en conseil juridique',
+      'Expérience en conseil',
       'Excellentes capacités rédactionnelles'
     ]
   }
@@ -66,7 +66,7 @@ const benefits = [
 <template>
   <div class="pt-16">
     <HeroSection
-        title="Carrières chez IBK Consulting"
+        title="Carrières chez notre entreprise"
         subtitle="Rejoignez une équipe dynamique et participez à des projets stimulants"
         background="gradient"
     />

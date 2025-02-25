@@ -12,7 +12,7 @@ import { MapPinIcon, PhoneIcon, EnvelopeIcon, GlobeAltIcon } from '@heroicons/vu
             <img src="/images/logos/logo%20IBK.jpg" alt="IBK Consulting" class="h-12 w-auto" />
           </div>
           <p class="text-gray-600 dark:text-gray-400">
-            Cabinet d'Audit et Conseil Fiscal, Juridique et Organisationnel
+            Societe technique de developpement informatique et de reseaux
           </p>
         </div>
 
@@ -23,20 +23,20 @@ import { MapPinIcon, PhoneIcon, EnvelopeIcon, GlobeAltIcon } from '@heroicons/vu
             <div class="flex items-start">
               <MapPinIcon class="h-6 w-6 text-primary mr-2 flex-shrink-0" />
               <p class="text-gray-600 dark:text-gray-400">
-                Av. Al Mouqawama Immeuble Yassmine, Bloc A Etage 6 Bureau 67
+                Societe technique de developpement informatique et de reseaux
               </p>
             </div>
             <div class="flex items-center">
               <PhoneIcon class="h-5 w-5 text-primary mr-2" />
-              <p class="text-gray-600 dark:text-gray-400">+212 (0) 528 220 279</p>
+              <p class="text-gray-600 dark:text-gray-400">+212 (0) 000 000 000</p>
             </div>
             <div class="flex items-center">
               <EnvelopeIcon class="h-5 w-5 text-primary mr-2" />
-              <p class="text-gray-600 dark:text-gray-400">Contact@ibk.ma</p>
+              <p class="text-gray-600 dark:text-gray-400">test@test.ma</p>
             </div>
             <div class="flex items-center">
               <GlobeAltIcon class="h-5 w-5 text-primary mr-2" />
-              <p class="text-gray-600 dark:text-gray-400">www.ibk.ma</p>
+              <p class="text-gray-600 dark:text-gray-400">www.test.ma</p>
             </div>
           </div>
         </div>
@@ -60,10 +60,10 @@ import { MapPinIcon, PhoneIcon, EnvelopeIcon, GlobeAltIcon } from '@heroicons/vu
       <div class="mt-8 pt-8 border-t border-gray-200 dark:border-gray-800">
         <div class="flex flex-col md:flex-row justify-between items-center">
           <p class="text-gray-600 dark:text-gray-400">
-            © {{ new Date().getFullYear() }} IBK Consulting. Tous droits réservés.
+            © {{ new Date().getFullYear() }} test test. Tous droits réservés.
           </p>
           <p class="text-gray-600 dark:text-gray-400 mt-2 md:mt-0">
-            Coded by IBK developer
+            Coded by Aymen
           </p>
         </div>
       </div>

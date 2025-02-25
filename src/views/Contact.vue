@@ -18,24 +18,24 @@ import { useMotion } from '@vueuse/motion'
               <div>
                 <h2 class="text-xl font-semibold mb-2 text-gray-900 dark:text-white">Notre adresse</h2>
                 <p class="text-gray-600 dark:text-gray-300">
-                  Av. Al Mouqawama Immeuble Yassmine,<br>
-                  Bloc A Etage 6 Bureau 67
+                  Societe technique de developpement <br>
+                  informatique et de reseaux
                 </p>
               </div>
               
               <div>
                 <h2 class="text-xl font-semibold mb-2 text-gray-900 dark:text-white">Téléphone</h2>
-                <p class="text-gray-600 dark:text-gray-300">+212 (0) 528 220 279</p>
+                <p class="text-gray-600 dark:text-gray-300">+212 (0) 000 000 000</p>
               </div>
               
               <div>
                 <h2 class="text-xl font-semibold mb-2 text-gray-900 dark:text-white">Email</h2>
-                <p class="text-gray-600 dark:text-gray-300">Contact@ibk.ma</p>
+                <p class="text-gray-600 dark:text-gray-300">test@test.com</p>
               </div>
               
               <div>
                 <h2 class="text-xl font-semibold mb-2 text-gray-900 dark:text-white">Site web</h2>
-                <p class="text-gray-600 dark:text-gray-300">www.ibk.ma</p>
+                <p class="text-gray-600 dark:text-gray-300">www.test.ma</p>
               </div>
             </div>
           </div>
